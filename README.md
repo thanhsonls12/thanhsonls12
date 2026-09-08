@@ -2,15 +2,21 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Hoàng Thanh Sơn — Web Developer" />
 
-<br />
+</div>
 
-Building thoughtful interfaces & reliable APIs.
+```ts
+const developer = {
+  name: "Hoàng Thanh Sơn",
+  role: "Web Developer",
+  education: "Academy of Cryptography Techniques",
+  location: "Vietnam",
+  focus: ["Scalable web applications", "Clean architecture", "Developer-friendly APIs"],
+}
+```
 
-**Academy of Cryptography Techniques** · Vietnam
+<div align="center">
 
-Interested in building scalable web applications, clean architecture, and developer-friendly APIs
-
-<br />
+<img src="./assets/divider.svg" width="72%" alt="Gradient divider" />
 
 ### Frontend
 
@@ -23,7 +29,7 @@ Interested in building scalable web applications, clean architecture, and develo
 
 <sub>HTML · CSS · JavaScript · TypeScript · React · Next.js</sub>
 
-<br /><br />
+<br />
 
 ### Backend & Database
 
@@ -35,7 +41,7 @@ Interested in building scalable web applications, clean architecture, and develo
 
 <sub>Express · NestJS · PostgreSQL · Prisma · Redis</sub>
 
-<br /><br />
+<br />
 
 ### Tools & Infrastructure
 
@@ -46,7 +52,11 @@ Interested in building scalable web applications, clean architecture, and develo
 
 <sub>Docker · Git · Postman · Swagger</sub>
 
-<br /><br />
+<br />
+
+<img src="./assets/divider.svg" width="72%" alt="Gradient divider" />
+
+<br />
 
 ### A little progress, every day
 
@@ -56,8 +66,8 @@ Interested in building scalable web applications, clean architecture, and develo
   <img src="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake.svg" width="100%" alt="Snake animation of my GitHub contributions" />
 </picture>
 
-<br /><br />
+<br />
 
-<sub>Thanks for stopping by.</sub>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 
 </div>

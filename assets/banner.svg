@@ -15,6 +15,9 @@
   <text x="500" y="79" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="6" fill="#93c5fd">HELLO, WORLD</text>
   <text x="500" y="140" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#f8fafc">Hoàng Thanh Sơn</text>
   <text x="500" y="192" text-anchor="middle" font-family="Consolas,monospace" font-size="25" fill="#c4b5fd" clip-path="url(#typing)">Web Developer</text>
+  <rect x="616" y="168" width="3" height="29" rx="1.5" fill="#38bdf8">
+    <animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;.3;.31;.38;.45;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
   <path d="M455 226H545" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
   <text x="500" y="263" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#94a3b8">INTERFACES · APIs · IDEAS</text>
 </svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for stopping by</title>
+  <desc id="desc">A blue and violet gradient footer.</desc>
+  <defs>
+    <linearGradient id="footerBg" x2="1">
+      <stop stop-color="#0f172a"/>
+      <stop offset=".5" stop-color="#172554"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x2="1">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="100" rx="18" fill="url(#footerBg)"/>
+  <rect x="150" y="23" width="700" height="1.5" fill="url(#footerLine)"/>
+  <text x="500" y="61" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#e2e8f0">Thanks for stopping by</text>
+  <text x="500" y="82" text-anchor="middle" font-family="Consolas,monospace" font-size="11" letter-spacing="2" fill="#93c5fd">KEEP BUILDING · KEEP LEARNING</text>
+</svg>
