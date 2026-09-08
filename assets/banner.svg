@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hoàng Thanh Sơn — Web Developer</title>
+  <desc id="desc">A blue and violet banner with an animated typing subtitle.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+    <clipPath id="typing"><rect x="388" y="167" width="224" height="34"><animate attributeName="width" values="0;224;224;0;0" keyTimes="0;.3;.8;.95;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="1000" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="90" cy="255" r="140" fill="#38bdf8" opacity=".045"/>
+  <circle cx="920" cy="25" r="165" fill="#a78bfa" opacity=".06"/>
+  <path d="M78 118L48 150L78 182M922 118L952 150L922 182" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".5"/>
+  <text x="500" y="79" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="6" fill="#93c5fd">HELLO, WORLD</text>
+  <text x="500" y="140" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" fill="#f8fafc">Hoàng Thanh Sơn</text>
+  <text x="500" y="192" text-anchor="middle" font-family="Consolas,monospace" font-size="25" fill="#c4b5fd" clip-path="url(#typing)">Web Developer</text>
+  <path d="M455 226H545" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="500" y="263" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#94a3b8">INTERFACES · APIs · IDEAS</text>
+</svg>

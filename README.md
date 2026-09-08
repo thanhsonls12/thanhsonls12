@@ -1,50 +1,63 @@
-# Hi, I'm Hoàng Thanh Sơn 👋
+<div align="center">
 
-### Full-stack Developer
+<img src="./assets/banner.svg" width="100%" alt="Hoàng Thanh Sơn — Web Developer" />
 
-I build modern web applications with a focus on clean architecture, reliable APIs, and practical user experiences.
+<br />
 
-- 🎓 Studied at **Academy of Cryptography Techniques**
-- 💻 Working with both frontend and backend development
-- 🌱 Interested in building scalable web applications, clean architecture, and developer-friendly APIs
-- 📍 Vietnam
+Building thoughtful interfaces & reliable APIs.
 
-## Tech stack
+**Academy of Cryptography Techniques** · Vietnam
+
+Interested in building scalable web applications, clean architecture, and developer-friendly APIs
+
+<br />
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="./assets/html.svg" width="52" height="52" alt="HTML" /> &nbsp;
+<img src="./assets/css.svg" width="52" height="52" alt="CSS" /> &nbsp;
+<img src="./assets/js.svg" width="52" height="52" alt="JavaScript" /> &nbsp;
+<img src="./assets/ts.svg" width="52" height="52" alt="TypeScript" /> &nbsp;
+<img src="./assets/react.svg" width="52" height="52" alt="React" /> &nbsp;
+<img src="./assets/nextjs.svg" width="52" height="52" alt="Next.js" />
+
+<sub>HTML · CSS · JavaScript · TypeScript · React · Next.js</sub>
+
+<br /><br />
 
 ### Backend & Database
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="./assets/express.svg" width="52" height="52" alt="Express" /> &nbsp;
+<img src="./assets/nestjs.svg" width="52" height="52" alt="NestJS" /> &nbsp;
+<img src="./assets/postgres.svg" width="52" height="52" alt="PostgreSQL" /> &nbsp;
+<img src="./assets/prisma.svg" width="52" height="52" alt="Prisma" /> &nbsp;
+<img src="./assets/redis.svg" width="52" height="52" alt="Redis" />
+
+<sub>Express · NestJS · PostgreSQL · Prisma · Redis</sub>
+
+<br /><br />
 
 ### Tools & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<img src="./assets/docker.svg" width="52" height="52" alt="Docker" /> &nbsp;
+<img src="./assets/git.svg" width="52" height="52" alt="Git" /> &nbsp;
+<img src="./assets/postman.svg" width="52" height="52" alt="Postman" /> &nbsp;
+<img src="./assets/swagger.svg" width="52" height="52" alt="Swagger" />
 
-## GitHub stats
+<sub>Docker · Git · Postman · Swagger</sub>
 
-<div align="center">
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=thanhsonls12&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+### A little progress, every day
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhsonls12&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake.svg" width="100%" alt="Snake animation of my GitHub contributions" />
+</picture>
+
+<br /><br />
+
+<sub>Thanks for stopping by.</sub>
 
 </div>
-
-## Connect with me
-
-- GitHub: [@thanhsonls12](https://github.com/thanhsonls12)
