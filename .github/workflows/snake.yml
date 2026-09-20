@@ -35,22 +35,11 @@ jobs:
       - name: Publish generated images
         shell: bash
         run: |
-          git fetch origin output || true
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git worktree add --track -b output /tmp/snake-output origin/output
-          else
-            git worktree add --detach /tmp/snake-output
-            cd /tmp/snake-output
-            git checkout --orphan output
-            git rm -rf .
-            cd "$GITHUB_WORKSPACE"
-          fi
-          cp dist/*.svg /tmp/snake-output/
-          cd /tmp/snake-output
+          cp dist/*.svg .
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-snake.svg github-snake-dark.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: update contribution snake"
-            git push origin HEAD:output
+            git push origin HEAD:main
           fi
