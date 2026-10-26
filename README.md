@@ -61,9 +61,9 @@ const developer = {
 ### A little progress, every day
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/output/github-snake.svg" width="100%" alt="Snake animation of my GitHub contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/main/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thanhsonls12/thanhsonls12/main/github-snake.svg" width="100%" alt="Snake animation of my GitHub contributions" />
 </picture>
 
 <br />
